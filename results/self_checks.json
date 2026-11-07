@@ -1,0 +1,30 @@
+[
+  {
+    "depth": 6,
+    "parameters": 5442,
+    "input_shape": [
+      8,
+      2
+    ],
+    "output_shape": [
+      8,
+      2
+    ],
+    "loss_scalar": true,
+    "hidden_gradients_valid": true
+  },
+  {
+    "depth": 1,
+    "parameters": 162,
+    "input_shape": [
+      8,
+      2
+    ],
+    "output_shape": [
+      8,
+      2
+    ],
+    "loss_scalar": true,
+    "hidden_gradients_valid": true
+  }
+]

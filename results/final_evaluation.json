@@ -1,0 +1,13 @@
+{
+  "config": "F",
+  "seed": 29,
+  "epoch": 100,
+  "train_loss": 0.1382078379392624,
+  "train_accuracy": 0.949305534362793,
+  "val_loss": 0.16762325167655945,
+  "val_accuracy": 0.9229166507720947,
+  "mean_val_loss": 0.1677054986357689,
+  "test_loss": 0.13138487935066223,
+  "test_accuracy": 0.949999988079071,
+  "device": "cpu"
+}

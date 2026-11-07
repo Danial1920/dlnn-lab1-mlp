@@ -1,0 +1,50 @@
+[
+  {
+    "name": "A",
+    "depth": 6,
+    "activation": "Sigmoid",
+    "initialization": "xavier",
+    "optimizer": "Adam",
+    "lr": 0.003
+  },
+  {
+    "name": "B",
+    "depth": 6,
+    "activation": "Tanh",
+    "initialization": "xavier",
+    "optimizer": "Adam",
+    "lr": 0.003
+  },
+  {
+    "name": "C",
+    "depth": 6,
+    "activation": "ReLU",
+    "initialization": "xavier",
+    "optimizer": "Adam",
+    "lr": 0.003
+  },
+  {
+    "name": "D",
+    "depth": 6,
+    "activation": "ReLU",
+    "initialization": "he",
+    "optimizer": "Adam",
+    "lr": 0.003
+  },
+  {
+    "name": "E",
+    "depth": 6,
+    "activation": "ReLU",
+    "initialization": "he",
+    "optimizer": "SGD",
+    "lr": 0.05
+  },
+  {
+    "name": "F",
+    "depth": 1,
+    "activation": "ReLU",
+    "initialization": "he",
+    "optimizer": "Adam",
+    "lr": 0.003
+  }
+]
